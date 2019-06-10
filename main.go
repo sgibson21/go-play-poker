@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"poker/poker"
+	"go-play-poker/poker"
 )
 
 func main() {
